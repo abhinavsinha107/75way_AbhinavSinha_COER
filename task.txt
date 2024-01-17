@@ -1,0 +1,8 @@
+User register - Done
+User sign-in - Done
+Create job categories - Done
+Can create job (title, descriptions, categories) - Done
+Create job interests - Done
+Notify interested users for new job via email
+Apply for a job - Done
+Job creator can see all requests for job apply - Done
